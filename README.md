@@ -1,7 +1,7 @@
 # NudgeMetal
 
 This is a Discord bot written for BMcord.
-It handles one commands at present.
+It handles one command at present.
 
 !nudge #new-channel
 
